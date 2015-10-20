@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nice-description
 is_topmenu: true
 title: FAQ
 ---

@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: nice-description
 is_topmenu: true
 title: Projecten
+image: /assets/tekening.png
 ---
 
 ### Twikkel the World for Syria

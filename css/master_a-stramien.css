@@ -1,0 +1,44 @@
+#u152-4,#u153-4,#u154-4,#u155-4,#u156-4,#u157-4
+{
+	background-color: transparent;
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+}
+
+#u110,#u111
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u110_align_to_page,#u111_align_to_page
+{
+	position: relative;
+}
+
+#u134_clip,#u125_clip
+{
+	overflow: hidden;
+}
+
+#u235-2
+{
+	text-align: center;
+}
+
+#u235-4
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+#u196,#u113,#u202,#u205,#u208,#u211,#u245,#u119,#u134,#u125,#u235-7,#u225
+{
+	background-color: transparent;
+	position: relative;
+}
+

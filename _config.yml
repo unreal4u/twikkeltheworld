@@ -1,0 +1,25 @@
+# Site settings
+title: "Twikkel the World"
+email: info@twikkeltheworld.com
+description: Twikkel the World for Syria
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.twikkeltheworld.com" # the base hostname & protocol for your site
+twitter_username: twikkeltheworld
+github_username:  unreal4u
+analytics :
+  tracking_id : 'UA-XXXXXX-1'
+markdown: kramdown
+permalink: /:year/:month/:title/
+paginate: 10
+paginate_path: "/page/:num/"
+gems:
+  - jekyll-sitemap
+bootstrap:
+  version : "3.3.4"
+jquery:
+  version : "2.1.3"
+
+# SASS settings
+sass:
+  style: :compressed
+  sass_dir: css

@@ -7,7 +7,7 @@ url: "http://www.twikkeltheworld.com" # the base hostname & protocol for your si
 twitter_username: twikkeltheworld
 github_username:  unreal4u
 analytics :
-  tracking_id : 'UA-XXXXXX-1'
+  tracking_id : 'UA-69093043-1'
 markdown: kramdown
 permalink: /:year/:month/:title/
 paginate: 10

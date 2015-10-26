@@ -2,6 +2,7 @@
 layout: nice-description
 is_topmenu: true
 title: Contact
+permalink: contact/
 ---
 
 ### Bezoek / Post adres

@@ -2,6 +2,7 @@
 layout: nice-description
 is_topmenu: true
 title: FAQ
+permalink: faq/
 ---
 
 ### Wat is Twikkel the World?

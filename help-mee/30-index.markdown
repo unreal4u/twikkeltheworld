@@ -2,6 +2,7 @@
 layout: nice-description
 is_topmenu: true
 title: Help mee
+permalink: help-mee/
 ---
 
 ### Help mee

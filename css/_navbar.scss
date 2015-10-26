@@ -1,0 +1,27 @@
+header {
+  margin-top:20px;
+  font-family: "Courier New";
+  font-size:20px;
+
+  nav {
+    margin-top:20px;
+
+    img.donate {
+      height:50px;
+    }
+  }
+
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+
+    .active {
+      background-color: #e7e7e7;
+    }
+  }
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+}

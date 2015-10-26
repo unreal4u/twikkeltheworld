@@ -2,6 +2,7 @@
 layout: nice-description
 is_topmenu: true
 title: Over ons
+permalink: over-ons/
 ---
 
 ### Over Ons

@@ -2,6 +2,7 @@
 layout: nice-description
 is_topmenu: true
 title: Projecten
+permalink: projecten/
 image: /assets/tekening.png
 ---
 

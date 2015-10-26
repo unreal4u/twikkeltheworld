@@ -41,8 +41,8 @@ info@twikkeltheworld.com
 
 ### Social Media
 
-www.facebook.com/twikkeltheworld
+[www.facebook.com/twikkeltheworld](https://www.facebook.com/twikkeltheworld)
 
-www.instagram.com/twikkeltheworld
+[www.instagram.com/twikkeltheworld](https://www.instagram.com/twikkeltheworld)
 
-www.twitter.com/twikkeltheworld
+[www.twitter.com/twikkeltheworld](https://www.twitter.com/twikkeltheworld)

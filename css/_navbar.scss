@@ -15,9 +15,17 @@ header {
     display: inline-block;
     float: none;
     vertical-align: top;
+    a {
+        color: #000000;
+    }
+    a:focus, a:hover {
+      color: #F90;
+      background: #FFF;
+    }
 
-    .active {
-      background-color: #e7e7e7;
+    .active a {
+      color: #F90;
+      background-color: #FFF;
     }
   }
 
